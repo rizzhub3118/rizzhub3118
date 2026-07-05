@@ -1,37 +1,53 @@
-<div align="center">
+<h1 align="center">Hey 👋, I'm Rishabh Arun</h1>
 
-# 👋 Hey, I'm Rishabh Arun
+<h3 align="center">🚀 AI • Machine Learning • Full Stack • Building Cool Stuff</h3>
 
-### 🤖 AI Engineer in Progress • Full Stack Developer • Tech Explorer
-
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Artificial+Intelligence;Machine+Learning;Generative+AI;Full+Stack+Developer;Always+Building+Something+Cool" />
-
-</div>
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Artificial+Intelligence+Engineer;Machine+Learning+Developer;Generative+AI+Explorer;Building+Real+World+Projects;Always+Learning+Something+New"/>
+</p>
 
 ---
 
-## 🚀 About Me
+<img align="right" alt="Coding" width="330" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
 
-```python
-class Rishabh:
+## 👨‍💻 About Me
 
-    def __init__(self):
-        self.education = "B.Tech AIML"
-        self.interests = [
-            "Artificial Intelligence",
-            "Machine Learning",
-            "Generative AI",
-            "Full Stack Development"
-        ]
+🎓 B.Tech in Artificial Intelligence & Machine Learning
 
-        self.currently_learning = [
-            "LLMs",
-            "Next.js",
-            "Deep Learning"
-        ]
+💻 Passionate about AI, ML & Full Stack Development
 
-        self.fun_fact = "Building > Talking"
-```
+🚀 Building projects that solve real-world problems
+
+🌱 Currently learning
+
+- Generative AI
+- Deep Learning
+- Next.js
+- Python
+
+⚡ Fun Fact
+
+> *Building today what I'll use tomorrow.*
+
+---
+
+## 🌐 Connect With Me
+
+<p>
+
+<a href="https://github.com/rizzhub3118">
+<img src="https://skillicons.dev/icons?i=github" width="45"/>
+</a>
+
+<a href="www.linkedin.com/in/rishabh-arun-6a82b0281">
+<img src="https://skillicons.dev/icons?i=linkedin" width="45"/>
+</a>
+
+<a href="mailto:arunrishabh33@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" width="45"/>
+</a>
+
+</p>
 
 ---
 
@@ -39,7 +55,7 @@ class Rishabh:
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=python,java,cpp,c,html,css,javascript,typescript,react,nextjs,nodejs,express,mongodb,mysql,tensorflow,pytorch,opencv,firebase,git,github,vscode&perline=10"/>
+<img src="https://skillicons.dev/icons?i=python,java,cpp,html,css,javascript,react,nextjs,nodejs,mongodb,mysql,tensorflow,pytorch,git,github,vscode"/>
 
 </p>
 
@@ -49,9 +65,9 @@ class Rishabh:
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
 
 </p>
 
@@ -59,60 +75,38 @@ class Rishabh:
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight"/>
 
 </p>
 
 ---
 
-# 📈 Contribution Graph
+## 🚀 Featured Projects
+
+🛡️ **Kavach** – AI Scam Detection System
+
+📊 **IPL Analytics Dashboard** – Python + Streamlit
+
+🤖 **AI Planner** – Smart Productivity Assistant
+
+🏏 **Player Auction System** – Java + MySQL
+
+💬 **Lie Detection AI** – NLP + Machine Learning
+
+---
+
+## 📈 GitHub Activity
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night"/>
 
 ---
 
-# 🏆 Trophies
-
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&column=4&margin-w=15&margin-h=15"/>
-
----
-
-# 🚀 Projects
-
-- 🛡️ Kavach - AI Scam Detection
-- 📊 IPL Analytics Dashboard
-- 🏏 Player Auction System
-
----
-
-# 🌍 Connect
-
-<p>
-
-<a href="https://github.com/rizzhub3118">
-<img src="https://skillicons.dev/icons?i=github"/>
-</a>
-
-<a href="www.linkedin.com/in/rishabh-arun-6a82b0281">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
-</a>
-
-<a href="mailto:arunrishabh33@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail"/>
-</a>
-
-</p>
-
----
-
 <p align="center">
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=blue"/>
 
 </p>
 
-<div align="center">
-
-### ⭐ Thanks for Visiting ⭐
-
-</div>
+<h3 align="center">
+⭐ Thanks for stopping by! ⭐
+</h3>
