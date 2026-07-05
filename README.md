@@ -25,9 +25,6 @@
 - Next.js
 - Python
 
-⚡ Fun Fact
-
-> *Building today what I'll use tomorrow.*
 
 ---
 
@@ -87,11 +84,9 @@
 
 📊 **IPL Analytics Dashboard** – Python + Streamlit
 
-🤖 **AI Planner** – Smart Productivity Assistant
-
 🏏 **Player Auction System** – Java + MySQL
 
-💬 **Lie Detection AI** – NLP + Machine Learning
+
 
 ---
 
