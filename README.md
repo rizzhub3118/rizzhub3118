@@ -1,30 +1,37 @@
-<h1 align="center">Hi 👋, I'm Rishabh Arun</h1>
-<h3 align="center">🚀 AI & ML Developer | Full Stack Enthusiast | Tech Explorer</h3>
+<div align="center">
 
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Artificial+Intelligence+Engineer;Machine+Learning+Developer;Full+Stack+Web+Developer;Generative+AI+Explorer;Always+Learning+Something+New!"/>
-</p>
+# 👋 Hey, I'm Rishabh Arun
 
----
+### 🤖 AI Engineer in Progress • Full Stack Developer • Tech Explorer
 
-<img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif">
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Artificial+Intelligence;Machine+Learning;Generative+AI;Full+Stack+Developer;Always+Building+Something+Cool" />
 
-## 👨‍💻 About Me
-
-- 🎓 B.Tech in Artificial Intelligence & Machine Learning
-- 💡 Passionate about AI, Machine Learning & Full Stack Development
-- 🚀 Building real-world AI projects
-- 🌱 Currently learning **Generative AI, LLMs, Next.js & Deep Learning**
+</div>
 
 ---
 
-## 🌐 Connect With Me
+## 🚀 About Me
 
-<p align="left">
-<a href="www.linkedin.com/in/rishabh-arun-6a82b0281" target="blank"><img src="https://skillicons.dev/icons?i=linkedin" height="45"/></a>
-<a href="mailto:arunrishabh33@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="45"/></a>
-<a href="https://github.com/rizzhub3118"><img src="https://skillicons.dev/icons?i=github" height="45"/></a>
-</p>
+```python
+class Rishabh:
+
+    def __init__(self):
+        self.education = "B.Tech AIML"
+        self.interests = [
+            "Artificial Intelligence",
+            "Machine Learning",
+            "Generative AI",
+            "Full Stack Development"
+        ]
+
+        self.currently_learning = [
+            "LLMs",
+            "Next.js",
+            "Deep Learning"
+        ]
+
+        self.fun_fact = "Building > Talking"
+```
 
 ---
 
@@ -32,47 +39,7 @@
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=python"/>
-
-<img src="https://skillicons.dev/icons?i=java"/>
-
-<img src="https://skillicons.dev/icons?i=cpp"/>
-
-<img src="https://skillicons.dev/icons?i=c"/>
-
-<img src="https://skillicons.dev/icons?i=javascript"/>
-
-<img src="https://skillicons.dev/icons?i=typescript"/>
-
-<img src="https://skillicons.dev/icons?i=html"/>
-
-<img src="https://skillicons.dev/icons?i=css"/>
-
-<img src="https://skillicons.dev/icons?i=react"/>
-
-<img src="https://skillicons.dev/icons?i=nextjs"/>
-
-<img src="https://skillicons.dev/icons?i=nodejs"/>
-
-<img src="https://skillicons.dev/icons?i=express"/>
-
-<img src="https://skillicons.dev/icons?i=mongodb"/>
-
-<img src="https://skillicons.dev/icons?i=mysql"/>
-
-<img src="https://skillicons.dev/icons?i=tensorflow"/>
-
-<img src="https://skillicons.dev/icons?i=pytorch"/>
-
-<img src="https://skillicons.dev/icons?i=opencv"/>
-
-<img src="https://skillicons.dev/icons?i=firebase"/>
-
-<img src="https://skillicons.dev/icons?i=git"/>
-
-<img src="https://skillicons.dev/icons?i=github"/>
-
-<img src="https://skillicons.dev/icons?i=vscode"/>
+<img src="https://skillicons.dev/icons?i=python,java,cpp,c,html,css,javascript,typescript,react,nextjs,nodejs,express,mongodb,mysql,tensorflow,pytorch,opencv,firebase,git,github,vscode&perline=10"/>
 
 </p>
 
@@ -91,7 +58,9 @@
 ---
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
+
+<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
+
 </p>
 
 ---
@@ -102,51 +71,35 @@
 
 ---
 
-# 🏆 GitHub Trophies
+# 🏆 Trophies
 
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=algolia&row=2&column=4"/>
-
-</p>
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&column=4&margin-w=15&margin-h=15"/>
 
 ---
 
-# 🚀 Featured Projects
+# 🚀 Projects
 
-| Project | Description |
-|----------|-------------|
-| 🛡️ Kavach | AI Scam Detection System |
-| 📊 IPL Analytics Dashboard | IPL Data Analysis using Python |
-| 🏏 Auction System | IPL Auction Management |
+- 🛡️ Kavach - AI Scam Detection
+- 📊 IPL Analytics Dashboard
+- 🏏 Player Auction System
 
 ---
 
-# ✨ Random Dev Quote
+# 🌍 Connect
 
-<p align="center">
+<p>
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+<a href="https://github.com/rizzhub3118">
+<img src="https://skillicons.dev/icons?i=github"/>
+</a>
 
-</p>
+<a href="www.linkedin.com/in/rishabh-arun-6a82b0281">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
 
----
-
-# 😂 Random Meme
-
-<p align="center">
-
-<img src="https://readme-jokes.vercel.app/api?theme=tokyonight"/>
-
-</p>
-
----
-
-# 👀 Visitors
-
-<p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+<a href="mailto:arunrishabh33@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail"/>
+</a>
 
 </p>
 
@@ -154,12 +107,12 @@
 
 <p align="center">
 
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg"/>
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge"/>
 
 </p>
 
----
+<div align="center">
 
-<h3 align="center">
-⭐ Thanks for visiting my profile! ⭐
-</h3>
+### ⭐ Thanks for Visiting ⭐
+
+</div>
